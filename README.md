@@ -1,1 +1,1 @@
-# ggip-update-jc
+# ggid/ip-update-jc
